@@ -1,6 +1,10 @@
 div.font{
     font-family: 'Roboto', sans-serif;
     margin: 0 auto;
+    padding-left: 25%;
+    padding-right: 25%;
+    height: auto;
+    width: auto;
     font-size: 20px;
     line-height: 26px;
     color: black;
@@ -22,6 +26,7 @@ span{
 }
 ul{
     margin-bottom: 40px;
+    margin: 0 auto;
 }
 ol{
     margin-bottom: 40px;
