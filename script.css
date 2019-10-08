@@ -9,11 +9,8 @@ div.font{
     line-height: 26px;
     color: black;
 }
-li.ingrediënten{
-    margin-bottom: 10px;
-  
-}
-li.ingrediënten{
+
+ul>li{
     margin-bottom: 20px;
 
 }
@@ -39,6 +36,8 @@ p{
 h1{
     font-size: 36px;
     line-height: 36px;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
 }
 h2{
     font-size: 32px;
